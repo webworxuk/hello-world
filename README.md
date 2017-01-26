@@ -1,2 +1,3 @@
 # hello-world
-first repository
+
+Im new to github, learning about versioning. Im keen to master this.
